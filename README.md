@@ -9,7 +9,9 @@ from mathematics, algorithms, and data structures to object-oriented programming
 ### 🔭 I’m currently working on
 🎵 **Language Learning App Using Songs** | *Python, NLP, Machine Learning* 
 
-- Designed and trained a machine learning model using a Multi-Layer Perceptron to classify songs into thematic vocabulary categories.
+- Designed and trained a machine learning model using a Multi-Layer Perceptron to classify songs
+
+  into thematic vocabulary categories.
   
 - Integrated external API calls to GROK to classify individual words by difficulty level,
   
