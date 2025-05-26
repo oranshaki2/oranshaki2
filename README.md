@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Oran Shaki
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&duration=3000&pause=500&color=6222F7&vCenter=true&width=435&lines=Hey+there!%F0%9F%91%8B;I'm+Oran...;Nice+to+meet+you!)](https://git.io/typing-svg)
 ### 🙋‍♂️ About me
 I am a Computer Science student at Bar-Ilan university (BIU). 
 
